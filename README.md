@@ -1,3 +1,3 @@
 # pf_forecast_sails
 
-a [Sails](http://sailsjs.org) application
+To run, open a new tab and go to [localhost:1337/user](http://localhost:1337/user).
